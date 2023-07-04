@@ -60,7 +60,3 @@
 - If you think it will recognise expression just like humans,than leave it ,its not possible.
 - Download 300 Images for every expression(you can use batch downloader)
 - Noisy image can reduce your accuracy so quality of images matter.
-
-## Just follow☝️ me and Star⭐ my repository 
-## [Demo video](https://youtu.be/YTIrGBOKRHY)
-## Buy this projects from here at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820/e-musicplay-music-according-to-your-face-moo/)
